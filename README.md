@@ -3,7 +3,7 @@
 This project extracts and analyzes data from the **World Data Bank** related to the **United Nations' 17 Sustainable Development Goals (SDGs)**. The goal is to provide insights into global sustainability progress by processing key indicators tied to each SDG.
 
 ## 📌 Project Overview
-- **Data Source**: [World Bank Data](https://data.worldbank.org) (or specify the exact dataset)
+- **Data Source**: [World Bank Data](https://data.worldbank.org)
 - **Focus**: Extraction, cleaning, and analysis of indicators tied to the **UN's 17 SDGs**.
 - **Output**: Structured datasets, visualizations, or reports highlighting trends in sustainability metrics.
 
